@@ -1,0 +1,5 @@
+gensim
+networkx
+numpy
+scikit-learn
+pandas
